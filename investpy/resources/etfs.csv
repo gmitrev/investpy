@@ -8548,7 +8548,7 @@ united kingdom,iShares UK Property UCITS,iShares UK Property UCITS,IUKP,ishares-
 united kingdom,iShares Physical Gold,iShares Physical Gold,IGLN,ishares-physical-gold,45695,IE00B4ND3602,commodity,USD,London,True
 united kingdom,iShares GBP-Linked Gilts UCITS,iShares GBP-Linked Gilts UCITS,INXG,ishares-£-idx-lkd-gilt,38411,IE00B1FZSD53,bond,GBP,London,True
 united kingdom,iShares Core S&P 500 UCITS,iShares Core S&P 500 UCITS ETF USD (Acc),CSPX,cs-etf-(ie)-on-s-p-500,38340,IE00B5BMR087,equity,USD,London,True
-united kingdom,iShares S&P 500 UCITS Dist,iShares S&P 500 UCITS Dist,IUSA,ishares-s-p-500---gbp,45759,IE0031442068,equity,GBP,London,True
+united kingdom,iShares S&P 500 UCITS GBP Dist,iShares S&P 500 UCITS Dist,IUSA,ishares-s-p-500---gbp,45759,IE0031442068,equity,GBP,London,True
 united kingdom,iShares Edge MSCI World Min Vol,iShares Edge MSCI World Minimum Volatility UCITS,MVOL,ishares-edge-msci-world-min-vol?cid=995661,995661,IE00B8FHGS14,equity,USD,London,False
 united kingdom,iShares $ Treasury Bond 1-3 Acc,iShares $ Treasury Bond 1-3 UCITS Acc,IBTA,ishares-treasury-bond-1-3-acc,1013315,IE00BYXPSP02,bond,USD,London,True
 united kingdom,iShares J.P. Morgan $ Emerging Markets Bond UCITS,iShares J.P. Morgan Emerging Market Bond UCITS,IEMB,ishares-jp-usd-emerging-mkts-bond,38396,IE00B2NPKV68,bond,USD,London,True
